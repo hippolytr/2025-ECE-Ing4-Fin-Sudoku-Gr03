@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ChocoSolvers", "Sudo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.NorvigSolvers", "Solution.NorvigSolvers\Solution.NorvigSolvers.csproj", "{C11D64B7-100C-48C4-B237-8EB42BAF78D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.NeuralNetworkSolvers", "Solution.NeuralNetworkSolvers\Solution.NeuralNetworkSolvers.csproj", "{21F078A3-E769-4752-8A49-046B0137854E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.ProbabilitySpaceSolvers", "Solution.ProbabilitySpaceSolvers\Solution.ProbabilitySpaceSolvers.csproj", "{47826C90-D1AA-4CCE-815B-033C10954ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.SimulatedAnnealingSolvers", "Solution.Simulated AnnealingSolvers\Solution.SimulatedAnnealingSolvers.csproj", "{62793A79-C168-47CA-8465-AE75457BD220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,18 @@ Global
 		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F078A3-E769-4752-8A49-046B0137854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F078A3-E769-4752-8A49-046B0137854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F078A3-E769-4752-8A49-046B0137854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F078A3-E769-4752-8A49-046B0137854E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47826C90-D1AA-4CCE-815B-033C10954ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47826C90-D1AA-4CCE-815B-033C10954ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47826C90-D1AA-4CCE-815B-033C10954ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47826C90-D1AA-4CCE-815B-033C10954ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62793A79-C168-47CA-8465-AE75457BD220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62793A79-C168-47CA-8465-AE75457BD220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62793A79-C168-47CA-8465-AE75457BD220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62793A79-C168-47CA-8465-AE75457BD220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,10 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Solution.NeuralNetworkSolvers\Solution.NeuralNetworkSolvers.csproj" />
     <ProjectReference Include="..\Solution.NorvigSolvers\Solution.NorvigSolvers.csproj" />
+    <ProjectReference Include="..\Solution.ProbabilitySpaceSolvers\Solution.ProbabilitySpaceSolvers.csproj" />
+    <ProjectReference Include="..\Solution.Simulated AnnealingSolvers\Solution.SimulatedAnnealingSolvers.csproj" />
     <ProjectReference Include="..\Sudoku.ChocoSolvers\Sudoku.ChocoSolvers.csproj" />
     <ProjectReference Include="..\Sudoku.ORToolsSolvers\Sudoku.ORToolsSolvers.csproj" />
     <ProjectReference Include="..\Sudoku.Shared\Sudoku.Shared.csproj" />
