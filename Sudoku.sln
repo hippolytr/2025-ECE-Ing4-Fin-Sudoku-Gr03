@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ORToolsSolvers", "Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.ChocoSolvers", "Sudoku.ChocoSolvers\Sudoku.ChocoSolvers.csproj", "{952F4D7C-9163-4D5E-B24B-E895695F8AB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.NorvigSolvers", "Solution.NorvigSolvers\Solution.NorvigSolvers.csproj", "{C11D64B7-100C-48C4-B237-8EB42BAF78D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{952F4D7C-9163-4D5E-B24B-E895695F8AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{952F4D7C-9163-4D5E-B24B-E895695F8AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{952F4D7C-9163-4D5E-B24B-E895695F8AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11D64B7-100C-48C4-B237-8EB42BAF78D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
